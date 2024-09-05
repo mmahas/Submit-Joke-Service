@@ -1,5 +1,5 @@
 {
-  "name": "masjid_master_pro",
+  "name": "submit-joke-service",
   "version": "1.0.0",
   "main": "./src/app.ts",
   "license": "MIT",
